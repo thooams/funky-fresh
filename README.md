@@ -1,0 +1,4 @@
+funky-fresh
+===========
+
+Simple launcher
