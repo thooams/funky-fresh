@@ -5,7 +5,7 @@
 # @thooams
 
 APPDIR = "#{ Dir.home }/Apps"
-FFDIR  = "#{ APPDIR }/dotfiles/funky_fresh"
+FFDIR  = "#{ APPDIR }/funky-fresh"
 
 # gem install mercenary
 require 'mercenary'
