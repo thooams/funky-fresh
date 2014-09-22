@@ -26,6 +26,7 @@ class Directory < Plugin
       { arg: 'ei',   name: 'EIME Infra',      path: "eime-infra/"      },
       { arg: 'vf',   name: 'Vimfiles',        path: "vimfiles/"        },
       { arg: 'ei',   name: 'EIME Infra',      path: "eime-infra/"      },
+      { arg: 'ar',   name: 'ARENE',           path: "arene/"           },
       { arg: 'df',   name: 'Dotfiles',        path: "dotfiles/"        }
     ]
   end
