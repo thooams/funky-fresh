@@ -28,7 +28,8 @@ class Directory < Plugin
       { arg: 'ei',   name: 'EIME Infra',      path: "eime-infra/"      },
       { arg: 'ar',   name: 'ARENE',           path: "arene/"           },
       { arg: 'ui',   name: 'Ui Bibz',         path: "Ui-Bibz/"         },
-      { arg: 'df',   name: 'Dotfiles',        path: "dotfiles/"        }
+      { arg: 'df',   name: 'Dotfiles',        path: "dotfiles/"        },
+      { arg: 'mp',   name: 'MPEL',            path: "mpel/"            }
     ]
   end
 
